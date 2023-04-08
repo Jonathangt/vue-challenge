@@ -1,0 +1,63 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`HomePage > Matches snapshot 1`] = `
+"<div data-v-4c4a4fb0=\\"\\">
+  <h2 data-v-4c4a4fb0=\\"\\">Miami Hotel Group</h2>
+  <div data-v-d5107566=\\"\\" data-v-4c4a4fb0=\\"\\" class=\\"reservation\\">
+    <h3 data-v-d5107566=\\"\\" class=\\"title-reservation\\">Hotel reservation</h3>
+    <div data-v-d3d63be6=\\"\\" data-v-d5107566=\\"\\" class=\\"card-list\\">
+      <div data-v-d3d63be6=\\"\\" class=\\"card\\">Lakewood <ul data-v-d3d63be6=\\"\\">
+          <li data-v-d3d63be6=\\"\\">Rate: ⭐⭐⭐</li><span data-v-d3d63be6=\\"\\" class=\\"\\">Weekday rates</span>
+          <ul data-v-d3d63be6=\\"\\">
+            <li data-v-d3d63be6=\\"\\">Regular customer: $110</li>
+          </ul><span data-v-d3d63be6=\\"\\" class=\\"\\">The weekend rates</span>
+          <ul data-v-d3d63be6=\\"\\">
+            <li data-v-d3d63be6=\\"\\">Regular customer: $90</li>
+          </ul>
+        </ul>
+      </div>
+      <div data-v-d3d63be6=\\"\\" class=\\"card\\">Bridgewood <ul data-v-d3d63be6=\\"\\">
+          <li data-v-d3d63be6=\\"\\">Rate: ⭐⭐⭐⭐</li><span data-v-d3d63be6=\\"\\" class=\\"\\">Weekday rates</span>
+          <ul data-v-d3d63be6=\\"\\">
+            <li data-v-d3d63be6=\\"\\">Regular customer: $160</li>
+          </ul><span data-v-d3d63be6=\\"\\" class=\\"\\">The weekend rates</span>
+          <ul data-v-d3d63be6=\\"\\">
+            <li data-v-d3d63be6=\\"\\">Regular customer: $60</li>
+          </ul>
+        </ul>
+      </div>
+      <div data-v-d3d63be6=\\"\\" class=\\"card\\">Ridgewood <ul data-v-d3d63be6=\\"\\">
+          <li data-v-d3d63be6=\\"\\">Rate: ⭐⭐⭐⭐⭐</li><span data-v-d3d63be6=\\"\\" class=\\"\\">Weekday rates</span>
+          <ul data-v-d3d63be6=\\"\\">
+            <li data-v-d3d63be6=\\"\\">Regular customer: $220</li>
+          </ul><span data-v-d3d63be6=\\"\\" class=\\"\\">The weekend rates</span>
+          <ul data-v-d3d63be6=\\"\\">
+            <li data-v-d3d63be6=\\"\\">Regular customer: $150</li>
+          </ul>
+        </ul>
+      </div>
+    </div>
+    <div data-v-d5107566=\\"\\" class=\\"reservation-info\\"> Regular customer <label data-v-d5107566=\\"\\" class=\\"switch\\"><input data-v-d5107566=\\"\\" type=\\"checkbox\\"><span data-v-d5107566=\\"\\" class=\\"slider round\\"></span></label> Rewards customer <div data-v-d5107566=\\"\\" class=\\"picker-date\\">
+        <div data-v-d5107566=\\"\\" class=\\"dp__main dp__theme_light\\">
+          <div aria-label=\\"Datepicker input\\" role=\\"textbox\\" aria-multiline=\\"false\\" aria-disabled=\\"false\\" aria-readonly=\\"false\\">
+            <!---->
+            <div class=\\"dp__input_wrap\\">
+              <!----><input class=\\"dp__pointer dp__input_readonly dp__input dp__input_icon_pad dp__input_reg\\" inputmode=\\"none\\" placeholder=\\"\\" autocomplete=\\"off\\">
+              <!----><svg xmlns=\\"http://www.w3.org/2000/svg\\" viewBox=\\"0 0 32 32\\" fill=\\"currentColor\\" aria-hidden=\\"true\\" class=\\"dp__icon dp__input_icon dp__input_icons\\">
+                <path d=\\"M29.333 8c0-2.208-1.792-4-4-4h-18.667c-2.208 0-4 1.792-4 4v18.667c0 2.208 1.792 4 4 4h18.667c2.208 0 4-1.792 4-4v-18.667zM26.667 8v18.667c0 0.736-0.597 1.333-1.333 1.333 0 0-18.667 0-18.667 0-0.736 0-1.333-0.597-1.333-1.333 0 0 0-18.667 0-18.667 0-0.736 0.597-1.333 1.333-1.333 0 0 18.667 0 18.667 0 0.736 0 1.333 0.597 1.333 1.333z\\"></path>
+                <path d=\\"M20 2.667v5.333c0 0.736 0.597 1.333 1.333 1.333s1.333-0.597 1.333-1.333v-5.333c0-0.736-0.597-1.333-1.333-1.333s-1.333 0.597-1.333 1.333z\\"></path>
+                <path d=\\"M9.333 2.667v5.333c0 0.736 0.597 1.333 1.333 1.333s1.333-0.597 1.333-1.333v-5.333c0-0.736-0.597-1.333-1.333-1.333s-1.333 0.597-1.333 1.333z\\"></path>
+                <path d=\\"M4 14.667h24c0.736 0 1.333-0.597 1.333-1.333s-0.597-1.333-1.333-1.333h-24c-0.736 0-1.333 0.597-1.333 1.333s0.597 1.333 1.333 1.333z\\"></path>
+              </svg>
+              <!---->
+              <!---->
+            </div>
+          </div>
+          <!---->
+        </div><button data-v-d5107566=\\"\\">Search hotel</button>
+      </div>
+    </div>
+    <!--v-if-->
+  </div>
+</div>"
+`;
