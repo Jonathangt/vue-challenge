@@ -8,7 +8,6 @@ export default defineConfig({
 	resolve: {
 		alias: {
 			'@': fileURLToPath(new URL('./src', import.meta.url)),
-			'@reservation': fileURLToPath(new URL('./src/modules/reservation', import.meta.url)),
 		}
 	},
 	css: {
